@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TopScene.unity
+    guid: 9569f7834db1747dea6e0278f2481312
+  - enabled: 1
+    path: Assets/Scenes/SelectScene.unity
+    guid: 65c2fcd36fb2f434aadb9d439f1b3976
+  - enabled: 1
+    path: Assets/Scenes/oneTapGame.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/resultScene.unity
+    guid: 7fc7beebc7e37478ebff7eee063a77cc
+  - enabled: 1
+    path: Assets/Scenes/doubleTapGame.unity
+    guid: b2afb3f02ff74416186067ddba265322
+  m_configObjects: {}
